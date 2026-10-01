@@ -1,0 +1,28 @@
+{
+  "item": {
+    "id": "com.veladict.band10",
+    "restype": "quick_app",
+    "name": "星词典",
+    "description": "小米手环 10 Pro 离线英汉词典- 约 5 万词条，支持离线查询- 支持中文拼音反查英文- 详细页面包含音标、词性、完整释义、英文定义、词形和相关词\n- 支持查询历史、收藏、随机词\n激活码 1 元/台（国庆特惠活动 0.5 元/台）\n交流群：1077023371",
+    "preview": [
+      "media/1000173791.png"
+    ],
+    "icon": "media/1000173775.png",
+    "cover": "media/1000173777.jpg",
+    "author": [
+      {
+        "name": "bandbbs_452336",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.34",
+      "file_name": "downloads/星词典1.0.34-debug.rpk",
+      "versionCode": 35
+    }
+  },
+  "ext": {}
+}
